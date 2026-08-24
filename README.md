@@ -2,6 +2,6 @@
 
 Vibecoded list to facilitate decision for a trip :
 
-https://github.com/AlexisAfonso/AlexisAfonso.github.io/blob/main/madere-catalogue.html
+https://AlexisAfonso.github.io/madere-catalogue.html
 
-https://github.com/AlexisAfonso/AlexisAfonso.github.io/blob/main/madere-vote.html
+https://AlexisAfonso.github.io/madere-vote.html
